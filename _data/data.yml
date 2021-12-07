@@ -7,33 +7,25 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Daniel Hernández Ascencio # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: danyherzdev@gmail.com
+  phone: 3122563881
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  linkedin: Daniel Hernández Ascencio
+  github: dany-herz42
+  gitlab: Danyherz42
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: 60% # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,9 +35,14 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Flexibility
       link: # dejar en blanco
 
+    - item: Assertiveness
+      link: # dejar en blanco
+
+    - item: Learnability
+      link: # dejar en blanco
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -54,14 +51,14 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Programmer Analyst Technician
+    university: Universidad de Colima
+    time: 2015 Aug - 2018 Jun
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software engineer
+    university: Universidad de Colima
+    time: 2018 Aug - current
     details: |
       Unsupervised deep learning for automatic behavior analysis
 
@@ -69,48 +66,21 @@ educationcomplete:
         - Representaion learning
         - Automatic Behavior Analysis
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Backend Developer (Constitucional Social Services)
+    time: 2021 Feb - 2021 Nov
+    company: Secretaría de Salud de Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      My activities in the "Secretaria de Salud de Colima" focused on the development of the backend 
+      for a new payroll system for this institution that uses NodeJs and MySql. Furthermore I 
+      also supported the frontend team with the design and programming of some user views using 
+      ReactJs. My main activities were:
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+        - Creation and testing of web services
+        - Diagramming of the system database
+        - Maintenance of the system database
+        - Design and development of user interfaces
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +92,42 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+
+    - name: Javascript
+      level: 100%
+
+    - name: NodeJs
+      level: 80%
+
+    - name: ExpressJs
+      level: 80%
+
+    - name: Visual Basic
+      level: 60%
+
+    - name: Ruby
+      level: 20%
+
     - name: Python
       level: 20%
 
-    - name: PyTorch
+    - name: Docker
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
+    - name: Linux
+      level: 40%
 
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
+    - name: MySql
       level: 100%
 
-    - name: C/C++
-      level: 40%
+    - name: PostgreSql
+      level: 60%
+
+    - name: MongoDB
+      level: 60%
+
+
+
 
 # NO MODIFICAR
 footer: >
