@@ -47,7 +47,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a student, about to graduate, of the Software Engineering career at the Faculty of Telematics of the University of Colima. My main strength is Backend development with NodeJs and databases in general. I also have skills in the development of user interfaces using vanilla Javascript and RectJs as well as different CSS frameworks. I hope to become a Fullstack developer in the future.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -96,20 +96,59 @@ skills:
     - name: Javascript
       level: 100%
 
+    - name: CSS
+      level: 100%
+
+    - name: HTML
+      level: 100%
+
+    - name: SASS
+      level: 100%
+
+    - name: MySql
+      level: 100%
+
+    - name: Bootstrap
+      level: 100%
+
     - name: NodeJs
+      level: 80%
+
+    - name: Git
       level: 80%
 
     - name: ExpressJs
       level: 80%
 
+    - name: Material UI
+      level: 60%
+
     - name: Visual Basic
       level: 60%
 
-    - name: Ruby
-      level: 20%
+    - name: PostgreSql
+      level: 60%
 
-    - name: Python
-      level: 20%
+    - name: MongoDB
+      level: 60%
+
+    - name: ReactJs
+      level: 60%
+
+    - name: React Native
+      level: 40%
+
+    - name: Kotlin
+      level: 40%
+
+    - name: PHP
+      level: 40%
+
+    - name: Axure RP
+      level: 40%
+
+    - name: Adobe XD
+      level: 40%
 
     - name: Docker
       level: 40%
@@ -117,14 +156,17 @@ skills:
     - name: Linux
       level: 40%
 
-    - name: MySql
-      level: 100%
+    - name: Figma
+      level: 40%
 
-    - name: PostgreSql
-      level: 60%
+    - name: Ruby
+      level: 20%
 
-    - name: MongoDB
-      level: 60%
+    - name: Python
+      level: 20%
+
+
+
 
 
 
