@@ -55,16 +55,26 @@ educationcomplete:
     university: Universidad de Colima
     time: 2015 Aug - 2018 Jun
     details: |
+      I learned about many introductory topics such as:
+      
+        - Internet networks
+        - Basic programming
+        - Prescriptive methodologies
+        - Operating systems
+        - Databases
 
   - degree: Software engineer
     university: Universidad de Colima
     time: 2018 Aug - current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+      Comprehensive learning on the following topics:
+        - Advanced programming
+        - Frameworks of different languages
+        - Advanced databases
+        - Data structures
+        - Internet networks and services
+        - Agile methodologies
+        - Video game programming
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -119,10 +129,13 @@ skills:
 
     - name: ExpressJs
       level: 80%
+ 
+    - name: Unity
+      level: 80%
 
     - name: Material UI
       level: 60%
-
+     
     - name: Visual Basic
       level: 60%
 
@@ -139,6 +152,9 @@ skills:
       level: 40%
 
     - name: Kotlin
+      level: 40%
+      
+    - name: Godot
       level: 40%
 
     - name: PHP
