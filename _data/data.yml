@@ -22,7 +22,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: 60% # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: 80% # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -78,7 +78,7 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Backend Developer (Constitucional Social Services)
+  - role: Web Developer (Constitucional Social Services)
     time: 2021 Feb - 2021 Nov
     company: Secretaría de Salud de Colima
     details: |
@@ -92,6 +92,50 @@ experiences:
         - Maintenance of the system database
         - Design and development of user interfaces
 
+- role: Brightcoders intern
+    time: 2021 november - 2022 march
+    company: Bright Coders Academy
+    details: |
+      I participated in a Ruby on Rails bootcamp at Brigth coders academy.
+      My main activities are:
+
+        - I learned to work as a team
+        - Git and Github in project management
+        - Ruby programming language
+        - TDD
+        - Testing 
+        - Learn to use the Ruby framework, Ruby on Rails, to create web applications. 
+          Creating views, controllers, database migrations, models, scaffolding and helpers 
+          were some of the things I used.
+
+  - role: Ruby On Rails Trainee
+    time: 2022 enero - 2022 march
+    company: Codeando México
+    details: |
+      I was participating as a ruby on rails apprentice in the organization of codeando mexico. 
+      We implemented a citizen consultation platform for the municipality of Monterrey using an 
+      open source gem called Decidim. My main activities were:
+
+        - Monkey patches
+        - Refactoring code
+        - Use an open source project
+        - Module Development
+        - Creation of Rails Engines
+        - Plus basic rails features like database migrations, views, helpers and controllers.
+
+  - role: Game Developer
+    time: 2022 enero - current
+    company: Ludolab
+    details: |
+      As a hobby, I am participating in the development of videogames for social purposes within 
+      ludolab (a non-profit organization), using Unity as a graphic engine and C# as a programming 
+      language. My main activities are:
+
+        - Database creation with MongoDB to store video game data
+        - Creating serializable models to work with MongoDB
+        - Creation of scenes and characters in 3D
+        - Module development in C#
+
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -104,6 +148,9 @@ skills:
   toolset:
 
     - name: Javascript
+      level: 100%
+
+    - name: Ruby (Ruby on Rails)
       level: 100%
 
     - name: CSS
@@ -121,13 +168,19 @@ skills:
     - name: Bootstrap
       level: 100%
 
-    - name: NodeJs
+    - name: Git (Github, GitLab and Bitbucket)
+      level: 100%
+
+    - name: Python (Flask, Tkinter)
       level: 80%
 
-    - name: Git
+    - name: NodeJs (MVC, ExpressJs)
       level: 80%
 
-    - name: ExpressJs
+    - name: C# .NET Core
+      level: 80%
+
+    - name: PostgreSql
       level: 80%
  
     - name: Unity
@@ -137,9 +190,6 @@ skills:
       level: 60%
      
     - name: Visual Basic
-      level: 60%
-
-    - name: PostgreSql
       level: 60%
 
     - name: MongoDB
@@ -174,17 +224,6 @@ skills:
 
     - name: Figma
       level: 40%
-
-    - name: Ruby
-      level: 20%
-
-    - name: Python
-      level: 20%
-
-
-
-
-
 
 
 # NO MODIFICAR
